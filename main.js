@@ -7,3 +7,21 @@ const question1 = {
   currectAnswer: ''
 };
 
+const question2 = {
+  question: '',
+  answer: '',
+  currectAnswer: ''
+};
+
+const question3 = {
+  question: '',
+  answer: '',
+  currectAnswer: ''
+};
+
+const question4 = {
+  question: '',
+  answer: '',
+  currectAnswer: ''
+};
+
